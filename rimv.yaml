@@ -1,7 +1,7 @@
 student:
 	name: Victoria
 	surname: Rymchuk
-	studentID: "KR \uc0\u8470 13457609"
+	studentID: "KR 13457609"
 	faculty: "Information technologies"
 	group: "PM-11"
 	budget: True
