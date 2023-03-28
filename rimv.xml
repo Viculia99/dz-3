@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<name>Victoria</name>
+	<surname>Rymchuk</surname>
+	<studentID>KR 13457609</studentID>
+	<faculty>Information technologies</faculty>
+	<group>PM-11</group>
+	<budget status="true"></budget>
+	<yearOfStudy>1</yearOfStudy>
+	<semester></semester>
+	<formOfEducation>full-time</formOfEducation>
+	<listOfDisciplines>
+		<discipline>
+			<name>Computer science</name>
+			<numberOfHours>206</numberOfHours>
+			<control>exam</control>
+		</discipline>
+		<discipline>
+			<name>Project management</name>
+			<numberOfHours>185</numberOfHours>
+			<control>exam</control>
+		</discipline>
+		<discipline>
+			<name>Philosophyt</name>
+			<numberOfHours>85</numberOfHours>
+			<control>test</control>
+		</discipline>
+	</listOfDisciplines>
+	<personalInformation>
+		<address>
+			<city>Kyiv</city>
+			<street>Lomonosova</street>
+			<buidingNumber>4a</buidingNumber>
+		</address>
+		<contactWay>
+			<way1>Telegram</way1>
+			<way2>Viber</way2>
+			<way3>Email</way3>
+		</contactWay>
+	</personalInformation>
+</student>

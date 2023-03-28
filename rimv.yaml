@@ -1,0 +1,33 @@
+student:
+	name: Victoria
+	surname: Rymchuk
+	studentID: "KR 13457609"
+	faculty: "Information technologies"
+	group: "PM-11"
+	budget: True
+	yearOfStudy: 1
+	semester: null
+	formOfEducation: "full-time"
+	listOfDisciplines:
+		discipline1:
+			name: "Computer science"
+			numberOfHours: 206
+			control: exam
+		discipline2:
+			name: "Project management"
+			numberOfHours: 185
+			control: exam
+		discipline3:
+			name: Philosophy
+			numberOfHours: 85
+			control: test
+	personalInformation:
+		phone: 0507654352
+		address:
+			city: Kyiv
+			street: Lomonosova
+			buildingNumber: 4a
+		contactWay:
+			- "Telegram"
+			- "Viber"
+			- "Email"

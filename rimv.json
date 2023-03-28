@@ -1,0 +1,41 @@
+{
+  "name": "Victoria",
+  "surname": "Rymchuk",
+  "studentID": "KR 13457609",
+  "faculty": "Information technologies",
+  "group": "PM-11",
+  "budget": true,
+  "yearOfStudy": 1,
+  "semester": null,
+  "formOfEducation": "full-time",
+  "listOfDisciplines": [
+    {
+      "name": "Computer science",
+      "numberOfHours": 206,
+      "control": "exam"
+    },
+    {
+      "name": "Project management",
+      "numberOfHours": 185,
+      "control": "exam"
+    },
+    {
+      "name": "Philosophy",
+      "numberOfHours": 85,
+      "control": "test"
+    }
+  ],
+  "personalInformatiion": {
+    "phone": "0507654352",
+    "address": {
+      "city": "Kyiv",
+      "street": "Lomonosova",
+      "buildingNumber": "4a"
+    },
+    "contactWay": [
+      "Telegram",
+      "Viber",
+      "Email"
+    ]
+  }
+}
